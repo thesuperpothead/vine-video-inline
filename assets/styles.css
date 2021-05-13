@@ -1,0 +1,9 @@
+.plyr {height: auto;}
+.plyr__control--overlaid {background: #00AA69;border: 3px solid #fff;}
+.plyr__control svg {width: 30px;height: 30px;}
+.plyr--video .plyr__control.plyr__tab-focus, .plyr--video .plyr__control:hover, .plyr--video .plyr__control[aria-expanded=true] {background: #00AA69;opacity: .8;}
+.plyr--full-ui input[type=range] {color: #00AA69;}
+.plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]::before {background: #00AA69;}
+
+.plyr__video-embed {position: relative;}
+.plyr__video-embed iframe {width: 100%;height: 100%;}
