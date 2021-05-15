@@ -2,7 +2,7 @@
 /*
 Plugin Name: Video Inline
 Description: Allows creating inline video as easy as pie.
-Version: 1.0
+Version: 1.1
 Author: Viktor Novikov
 Author URI: http://v-novicov.pro/
 */
